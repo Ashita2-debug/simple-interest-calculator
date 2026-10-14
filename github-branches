@@ -1,0 +1,11 @@
+curl -s https://api.github.com/repos/Ashita2-debug/simple-interest-calculator/branches
+[
+  {
+    "name": "main",
+    "commit": {
+      "sha": "4d2229c963c975e3df458c8d6c1acc93eb4ec280",
+      "url": "https://api.github.com/repos/Ashita2-debug/simple-interest-calculator/commits/4d2229c963c975e3df458c8d6c1acc93eb4ec280"
+    },
+    "protected": false
+  }
+]
